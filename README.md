@@ -1,21 +1,27 @@
-
-
-
-
-
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/f621d7c6-7da3-4c0a-b609-fd5280f7df53"
     alt="Stream Forge"
-    width="580"
+    width="800"
   />
 </p>
 
-                                          
-
-
-
-
+<p align="center">
+  <a href="https://github.com/darkknasgaming/Stream-Forge-Releases/releases/latest">
+    <img
+      src="https://img.shields.io/github/v/release/darkknasgaming/Stream-Forge-Releases?display_name=tag&label=Latest%20Release&color=ff7a00&style=for-the-badge"
+      alt="Latest Stream Forge Release"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white"
+    alt="Windows 10 and 11"
+  />
+  <img
+    src="https://img.shields.io/badge/Status-Alpha-ff7a00?style=for-the-badge"
+    alt="Alpha Software"
+  />
+</p>
 
 # 🔥 Stream Forge
 
@@ -32,14 +38,21 @@ Think of it like this:
 **Stream Forge = control, logic and automation**  
 **OBS / Streamlabs = video production and broadcast output**
 
+**Stream Forge complements OBS and Streamlabs — it does not replace them.**
+
+---
+
 ## ⬇️ Download Stream Forge
 
 **Windows 10 / 11**
 
-👉 [Download the latest Stream Forge release](../../releases/latest)
+### 👉 **[Download the latest Stream Forge release](https://github.com/darkknasgaming/Stream-Forge-Releases/releases/latest)**
 
 Stream Forge works alongside **OBS Studio** or **Streamlabs Desktop**.
 
+**Stream Forge runs the brains. OBS / Streamlabs puts it on screen.**
+
+> 🔥 Stream Forge is currently Alpha software. Windows may show a SmartScreen warning while builds remain unsigned.
 
 ---
 
