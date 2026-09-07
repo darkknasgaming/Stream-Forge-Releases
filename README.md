@@ -56,6 +56,8 @@ Stream Forge works alongside **OBS Studio** or **Streamlabs Desktop**.
 
 ---
 
+## ⚒️ What's New in 9.4.205
+
 🔥 OBS Quick Setup
 
 Connect Stream Forge to OBS and click Set Up OBS For Me.
@@ -71,6 +73,13 @@ Ending
 The only main thing left for the streamer to do is add their game/capture source to Gameplay.
 
 Setup is repairable and designed not to duplicate existing Stream Forge scenes and sources.
+
+📖 Setup Guide Improvements
+
+Clear distinction between OBS Scenes and Browser Sources
+Real OBS setup screenshots
+Quick Start now directs users to Platform Hub
+Cleaner first-time OBS setup instructions
 
 ## ⚒️ What's New in 9.4.204
 
