@@ -12,6 +12,16 @@ Think of it like this:
 
 **Stream Forge = control, logic and automation**  
 **OBS / Streamlabs = video production and broadcast output**
+
+## ⬇️ Download Stream Forge
+
+**Windows 10 / 11**
+
+👉 [Download the latest Stream Forge release](../../releases/latest)
+
+Stream Forge works alongside **OBS Studio** or **Streamlabs Desktop**.
+
+
 ---
 
 ## ⚒️ What's New in 9.4.204
