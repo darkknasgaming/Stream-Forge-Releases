@@ -56,6 +56,34 @@ Stream Forge works alongside **OBS Studio** or **Streamlabs Desktop**.
 
 ---
 
+🔊 Important: OBS Browser Source Audio Setup
+
+Stream Forge can automatically create the recommended OBS scenes and Browser Sources, but OBS does not reliably allow Stream Forge to enable Browser Source audio automatically.
+
+After running Set Up OBS For Me, open the Properties of each Stream Forge Browser Source in OBS and enable:
+
+✅ Control audio via OBS
+
+Enable it for:
+
+Starting
+Alerts
+Redeems
+BRB
+Music
+VLC Music Bar
+Song Requests
+Ending
+
+You do not need to enable it for:
+
+Logo
+Gameplay Community / Avatars
+
+Once enabled, the audio sources should appear in the OBS Audio Mixer. Make sure they are not muted.
+
+Recommended: Run a short Unlisted stream test and listen from the viewer side before your first public stream.
+
 ## ⚒️ What's New in 9.4.205
 
 🔥 OBS Quick Setup
