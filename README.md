@@ -4,8 +4,11 @@
 
 
 <p align="center">
-  <img src="<img width="580" height="258" alt="header" src=" <img width="580" height="258" alt="header" src="https://github.com/user-attachments/assets/f621d7c6-7da3-4c0a-b609-fd5280f7df53" />
-" />" alt="Stream Forge" />
+  <img
+    src="https://github.com/user-attachments/assets/f621d7c6-7da3-4c0a-b609-fd5280f7df53"
+    alt="Stream Forge"
+    width="580"
+  />
 </p>
 
                                           
