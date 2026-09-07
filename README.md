@@ -1,13 +1,17 @@
-# 🔥 Stream Forge v1.5.1 Alpha 9.4.204
+# 🔥 Stream Forge
 
-### FORGE YOUR STREAM.
+### Forge Your Stream.
 
-Stream Forge is an all-in-one Windows streaming companion built to bring your stream controls, community interaction, music, automation and alerts together in one place.
+**Stream Forge is the brain behind your stream. OBS or Streamlabs is the stage that shows it.**
 
-This release continues the push toward a polished public Alpha and includes the latest live-tested improvements to the built-in music and song request system.
+Stream Forge handles the automation, music, viewer interaction, alerts, remote control, community tools, stream lifecycle, backups and more.
 
-> 🔥 **Built for streamers. Powered by viewers. Forged through an unreasonable amount of testing.**
+OBS and Streamlabs then display the scenes, overlays and output that your viewers actually see.
 
+Think of it like this:
+
+**Stream Forge = control, logic and automation**  
+**OBS / Streamlabs = video production and broadcast output**
 ---
 
 ## ⚒️ What's New in 9.4.204
