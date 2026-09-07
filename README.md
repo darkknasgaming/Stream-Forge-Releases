@@ -84,6 +84,9 @@ Once enabled, the audio sources should appear in the OBS Audio Mixer. Make sure 
 
 Recommended: Run a short Unlisted stream test and listen from the viewer side before your first public stream.
 
+Why is this manual?
+During testing, OBS did not reliably preserve or apply Browser Source audio settings through automated setup or even its own Scene Collection import. Rather than risk creating a stream with missing audio, Stream Forge leaves this final audio step visible and under your control.
+
 ## ⚒️ What's New in 9.4.205
 
 🔥 OBS Quick Setup
